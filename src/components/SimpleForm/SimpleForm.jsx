@@ -17,7 +17,6 @@ const SimpleForm = () => {
                 <br />
                 <input type="text" name="phone"/>
                 <br />
-                <br />
                 <input type="submit" value="Submit" />
             </form>
         </div>
